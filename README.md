@@ -1,4 +1,4 @@
-Deploy Moodle Application using terraform and Ansible
+Deploy Moodle Application using Terraform and Ansible
 
 Problem statement :
 Install Terraform in a VM 
